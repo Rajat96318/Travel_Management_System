@@ -1,0 +1,14 @@
+
+Customer ID: 1
+Name: rajat
+Age: 23
+Mobile Number: 4564
+Address: gchtvujjyu
+Gender: mgj
+
+Customer ID: 2
+Name: vyu
+Age: 0
+Mobile Number: 0
+Address: 
+Gender: 
